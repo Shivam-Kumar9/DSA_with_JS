@@ -62,3 +62,13 @@ now one item will remain it get autometic fit
 
 */
 
+/* 
+time complaxicity - O(n^2)
+space complexity - O(1)
+
+(n-1) + (n-2) + (n-3) + ...
+n(n-1)/2       ---- use formula of ap  AND  remove  /2 because it have no value 
+n^2/2 - n/2    -------n/2 because it have no weight value 
+n^2)              --- so this remains
+
+*/ 
