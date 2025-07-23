@@ -1,0 +1,21 @@
+
+stack memory / call stack
+
+- in this  function  and  primitive data stored
+
+=> heap memory 
+-   and reference data stored  / non-primitive data stored
+
+
+* stack memory is small and fast
+* heap memory is large and slow
+ 5 / 95   data stored in stack and heap memory
+* a function create it own memory in stack
+* when function call another function, it create a new memory in stack or variable is stored in stack 
+
+
+\\recursion -  a function call itself again and again until a base condition is met
+
+* recursive fun ke baad jo bhe  code ha wo back tracking jab fun call-stack se pop ho raha ho tab execute  hota ha 
+
+
