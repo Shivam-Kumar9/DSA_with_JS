@@ -10,5 +10,6 @@ let a =20 , b =32
 
 while(a != b  ){
   if(a >b ) a = a-b
-  if(b >a ) b = b-a
+  else b = b-a
 }
+console.log(a,b);
