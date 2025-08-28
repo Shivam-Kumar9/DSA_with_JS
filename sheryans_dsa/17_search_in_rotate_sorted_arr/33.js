@@ -1,5 +1,4 @@
-//33 search in rotated sorted array
-// 
+//33 search in rotated sorted array 
 let ar = [4,5,6,7,0,1,2], t=4;
 let f=0;
 let l= ar.length-1;
