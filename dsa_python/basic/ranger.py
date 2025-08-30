@@ -1,3 +1,5 @@
-word ,*l = input().split()
-print(word)
-print(l)
+# word ,*l = input().split() # *l workas rest operator
+# print(word)
+# print(l)
+
+ 
