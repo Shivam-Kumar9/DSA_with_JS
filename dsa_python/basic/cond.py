@@ -9,8 +9,6 @@ square = [num**2 for num in ar] # list comprehend
 print(square)
 print( a)
 
-
-
 # index , value for each element in the list 
 fr = [ 'apple', 'banana', 'cherry']
  
@@ -20,4 +18,7 @@ print()
 print()
 
 
-
+# Fruits
+fruits = ['apple', 'banana', 'cherry']
+fruit_lengths = {fruit: len(fruit) for fruit in fruits}
+print(fruit_lengths)
