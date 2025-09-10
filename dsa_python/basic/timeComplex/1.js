@@ -116,4 +116,4 @@ function printLinearithmic(n) {
     for (let i = 1; i <= n; i++) {
         arr.push(Math.floor(Math.random() * 100));
     }
-    mergeSort(arr);     
+    mergeSort(arr); 
