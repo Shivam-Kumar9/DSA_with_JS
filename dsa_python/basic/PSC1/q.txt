@@ -1,0 +1,7 @@
+
+# PSC Questions : 
+
+ ## 1) 2D Array and Sum
+ ## 2) Spirally Traversing a Matrix
+ ## 3) Online Shopping Budget
+ ## 4) Number of ping 
